@@ -42,7 +42,7 @@
 <body>
 
 <header>
-    <h1>100 Miséria</h1>
+    <h1>100 Miséria Lanches</h1>
     <h2>Menu</h2>
 </header>
 
